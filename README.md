@@ -68,5 +68,5 @@ Follow the instructions in `Continuous_Control.ipynb` to get started with traini
 ****
 
 
-### View [Project Report](Report.pdf) 
+### View [Project Report](report.pdf) 
 - to have a better understanding about the detail implementation. 
