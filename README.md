@@ -64,3 +64,9 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  
 * Note: Option 2 is being selected in this project to solve the second version of Reacher environment where it is consist of 20 dual-joint robot-arm agents. 
+
+****
+
+
+### View [Project Report](Report.pdf) 
+- to have a better understanding about the detail implementation. 
